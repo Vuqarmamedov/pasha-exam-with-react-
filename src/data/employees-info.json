@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Toghrul Rajab",
+        "email": "toghrulrajab@gmail.com",
+        "stats": [
+            {
+                "name": "2222",
+                "color": "purple"
+            },
+            {
+                "name": "2222",
+                "color": "blue"
+            },
+            {
+                "name": "2222",
+                "color": "green"
+            },
+            {
+                "name": "2222",
+                "color": "yellow"
+            }
+        ],
+        "structure": "Marketinq",
+        "position": "Direktor"
+    },
+    {
+        "id": 2,
+        "name": "Toghrul Rajab",
+        "email": "toghrulrajab@gmail.com",
+        "stats": [
+            {
+                "name": "2222",
+                "color": "purple"
+            },
+            {
+                "name": "2222",
+                "color": "blue"
+            },
+            {
+                "name": "2222",
+                "color": "green"
+            },
+            {
+                "name": "2222",
+                "color": "yellow"
+            }
+        ],
+        "structure": "Marketinq",
+        "position": "Direktor"
+    },
+    {
+        "id": 3,
+        "name": "Toghrul Rajab",
+        "email": "toghrulrajab@gmail.com",
+        "stats": [
+            {
+                "name": "2222",
+                "color": "purple"
+            },
+            {
+                "name": "2222",
+                "color": "blue"
+            },
+            {
+                "name": "2222",
+                "color": "green"
+            },
+            {
+                "name": "2222",
+                "color": "yellow"
+            }
+        ],
+        "structure": "Marketinq",
+        "position": "Direktor"
+    },
+    {
+        "id": 4,
+        "name": "Toghrul Rajab",
+        "email": "toghrulrajab@gmail.com",
+        "stats": [
+            {
+                "name": "2222",
+                "color": "purple"
+            },
+            {
+                "name": "2222",
+                "color": "blue"
+            },
+            {
+                "name": "2222",
+                "color": "green"
+            },
+            {
+                "name": "2222",
+                "color": "yellow"
+            }
+        ],
+        "structure": "Marketinq",
+        "position": "Direktor"
+    }
+]
